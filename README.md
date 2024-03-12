@@ -2,4 +2,4 @@
 ### But you can call me Fil :smile:.
 
 <br />
-I'm a frontend dev/designer from Brazil.
+I'm a web designer and developer from Brazil. You can check my portfolio at https://filduarte.com.br/
